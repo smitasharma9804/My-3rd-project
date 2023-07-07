@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    /* background-image: url(image/diego-ph-fIq0tET6llw-unsplash.jpg); */
+}
+
+img {
+    height: 500px;
+    width: 700px;
+}
+
+.section {
+    /* border: 2px solid red; */
+    background-image: url(image/diego-ph-fIq0tET6llw-unsplash.jpg);
+    background-size: 700px 650px;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 700px;
+    margin: 50px auto;
+}
+
+.section2 {
+    margin-left: 80px;
+    margin-top: 30px;
+    /* display: block; */
+}
+
+.p1 {
+    /* color: azure; */
+    /* background-color: burlywood; */
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+
+
+}
+
+#share {
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.section3 {
+    margin: 30px 80px;
+}
+
+#ul {
+    margin-left: 18px;
+}
+
+
+button {
+    margin-left: 380px;
+    margin-top: 80px;
+    height: 25px;
+    width: 150px;
+    /* border: 1px solid black;  button a border allowed na*/
+    border-radius: 3px;
+
+}
